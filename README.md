@@ -73,7 +73,7 @@ I created this dashboards unsing PowerBI and MS Excel
 <a href="https://github.com/mahi12198/Hospital-Emergency-Room-Data-Analysis-and-Dashboard/blob/main/Hospital%20Emergency%20Data%20Analysis%20Dashboard.pbix">HospitaL Emergency Room PowerBI Reports</a>
 
 ## Final Image of Dashboard
-<a href="https://github.com/mahi12198/Hospital-Emergency-Room-Data-Analysis-and-Dashboard/blob/main/Hospital%20Emergency%20Data%20analysis%20and%20Project%20Dataset.csv">Hospitam Emergency Room Dataset</a>
+<a href="https://github.com/mahi12198/Hospital-Emergency-Room-Data-Analysis-and-Dashboard/blob/main/Dashboard.png">Hospitam Emergency Room Dashboard Image</a>
 
 ## Conclusion: 
 Crteated a dashboard according to KPIs needed and cleint requirements. 
